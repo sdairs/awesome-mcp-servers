@@ -421,6 +421,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
+- <img src="https://agentregistrar.dev/icon.svg" height="14"/> [Agent Registrar](https://github.com/agentregistrar/mcp) - Remote Streamable HTTP MCP server (OAuth 2.1) for brokered AI agent identity, delegated terms acceptance, signup receipts, and per-agent email inboxes under a verified human owner.
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" height="14"/> [Keycloak](https://github.com/ChristophEnglisch/keycloak-model-context-protocol) - MCP server implementation for managing Keycloak users, groups, and realms using natural language queries.
 
 <br />
